@@ -5,7 +5,7 @@ Reticle scripts and VR travel scripts
 3D TRAVEL
 
 Use the raycasting script for 3D travel using waypoints. Use the VR camera center as the cameraFacing variable. I've used Space type variable
-to move the player on raycast as it is a room_scale VR experience. Use player.transfor if it's a mobile VR. 
+to move the player on raycast as it is a room_scale VR experience. Use player.transform for mobile VR. 
 
 -------------------------------------------------------------------------------------------------------------------
 

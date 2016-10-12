@@ -1,3 +1,5 @@
+
+
 # VR_Reusables
 Reticle scripts and VR travel scripts
 3D TRAVEL
@@ -12,5 +14,7 @@ to move the player on raycast as it is a room_scale VR experience. Use player.tr
 Use the switch script on every object that needs to be turned on and off. Basically, any object that is a light or a TV or a radio. 
 The Virtual Switch script uses the action object that we provide in the switch script as a public variable. Action object specifies
 what type of object is being switched on and off. 
+
+
 --------------------------------------------------------------------------------------------------------------------
 

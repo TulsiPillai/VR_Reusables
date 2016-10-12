@@ -15,6 +15,10 @@ Use the switch script on every object that needs to be turned on and off. Basica
 The Virtual Switch script uses the action object that we provide in the switch script as a public variable. Action object specifies
 what type of object is being switched on and off. 
 
+The interactive script was developed at UTDallas's FIVE labs: https://utdfivelab.wordpress.com/2013/02/04/immersive-virtual-classroom/
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------
 
